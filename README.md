@@ -1,1 +1,1 @@
-# TrainingNotes
+# Training Notes
